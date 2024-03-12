@@ -5,6 +5,7 @@ version = "0.1.0"
 repository = "https://github.com/tobySolutions/cosmos-smart-contract"
 authors = ["tobySolutions <adedejitobiloba7@gmail.com>"]
 edition = "2021"
+permissive = "https://github.com/tobySolutions/cosmos-smart-contract?tab=MIT-1-ov-file#readme"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
