@@ -1,6 +1,6 @@
 use cosmwasm_schema::write_api;
 
-use cosmos_smart_contract::msg::{ExecuteMsg, InstantiateMsg, QueryMsg};
+use cw_cosmos_smart_contract::msg::{ExecuteMsg, InstantiateMsg, QueryMsg};
 
 fn main() {
     write_api! {

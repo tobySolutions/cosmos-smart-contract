@@ -1,6 +1,8 @@
 [package]
-name = "cosmos-smart-contract"
+name = "cw-cosmos-smart-contract"
+description = "Simple CosmWasm contract for an escrow with arbiter and timeout"
 version = "0.1.0"
+repository = "https://github.com/tobySolutions/cosmos-smart-contract"
 authors = ["tobySolutions <adedejitobiloba7@gmail.com>"]
 edition = "2021"
 
